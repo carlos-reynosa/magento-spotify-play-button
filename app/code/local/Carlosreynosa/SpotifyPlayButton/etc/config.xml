@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Carlosreynosa_SpotifyPlayButton>
+            <version>1.0</version>
+        </Carlosreynosa_SpotifyPlayButton>
+    </modules>
+    <global>
+    </global>
+</config>
