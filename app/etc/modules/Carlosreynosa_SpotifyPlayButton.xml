@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Carlosreynosa_SpotifyPlayButton>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Carlosreynosa_SpotifyPlayButton>
+    </modules>
+</config>
