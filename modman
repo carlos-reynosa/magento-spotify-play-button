@@ -1,3 +1,3 @@
 app/code/local/CarlosReynosa/SpotifyPlayButton   app/code/local/CarlosReynosa/SpotifyPlayButton
 app/etc/modules/CarlosReynosa_SpotifyPlayButton.xml app/etc/modules/CarlosReynosa_SpotifyPlayButton.xml
-
+app/design/frontend/base/default/template/CarlosReynosa_SpotifyPlayButton app/design/frontend/base/default/template/CarlosReynosa_SpotifyPlayButton
