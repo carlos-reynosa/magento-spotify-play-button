@@ -10,11 +10,13 @@ class CarlosReynosa_SpotifyPlayButton_Model_PlayButtonUrl extends Mage_Core_Mode
 {
     protected function _construct()
     {
+        //Defaults
         $this->setBaseUrl('https://embed.spotify.com/');
+        $this->setTrack('7fgVBZ8hEoOeHHeSvFRmOg');
     }
 
     public function getUrl()
     {
-        return $this->getBaseUrl() . '?uri=spotify:track:4th1RQAelzqgY7wL53UGQt';
+        return $this->getBaseUrl() . '?uri=spotify:track:' . $this->getTrack();
     }
 }
