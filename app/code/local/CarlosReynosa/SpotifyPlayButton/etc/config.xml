@@ -7,10 +7,15 @@
     </modules>
     <global>
         <blocks>
-            <carlosreynosa_spotifyplaybutton>
+            <CarlosReynosa_SpotifyPlayButton>
                 <class>CarlosReynosa_SpotifyPlayButton_Block</class>
-            </carlosreynosa_spotifyplaybutton>
+            </CarlosReynosa_SpotifyPlayButton>
 
         </blocks>
+        <models>
+            <CarlosReynosa_SpotifyPlayButton>
+                <class>CarlosReynosa_SpotifyPlayButton_Model</class>
+            </CarlosReynosa_SpotifyPlayButton>
+        </models>
     </global>
 </config>
