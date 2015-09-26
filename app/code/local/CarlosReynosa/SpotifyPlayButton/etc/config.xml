@@ -6,5 +6,16 @@
         </CarlosReynosa_SpotifyPlayButton>
     </modules>
     <global>
+        <blocks>
+            <CarlosReynosa_SpotifyPlayButton>
+                <class>CarlosReynosa_SpotifyPlayButton_Block</class>
+            </CarlosReynosa_SpotifyPlayButton>
+
+        </blocks>
+        <models>
+            <CarlosReynosa_SpotifyPlayButton>
+                <class>CarlosReynosa_SpotifyPlayButton_Model</class>
+            </CarlosReynosa_SpotifyPlayButton>
+        </models>
     </global>
 </config>

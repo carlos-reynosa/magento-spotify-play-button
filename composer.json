@@ -1,0 +1,11 @@
+{
+    "name": "carlosreynosa/magento-spotify-play-button",
+    "type": "magento-module",
+    "authors": [
+        {
+            "name": "Carlos E. Reynosa-Nunez",
+            "email": "creynosa9@gmail.com"
+        }
+    ],
+    "require": {}
+}
