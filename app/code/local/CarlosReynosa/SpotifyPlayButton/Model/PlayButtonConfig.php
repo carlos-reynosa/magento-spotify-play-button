@@ -14,7 +14,7 @@ class CarlosReynosa_SpotifyPlayButton_Model_PlayButtonConfig extends Mage_Core_M
     {
         $this->widgetUrl = Mage::getModel('CarlosReynosa_SpotifyPlayButton/PlayButtonUrl');
         $this->setWidth(300);
-        $this->setHeight(380);
+        $this->setHeight(80);
     }
 
     /**
